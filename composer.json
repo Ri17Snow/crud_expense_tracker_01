@@ -1,0 +1,8 @@
+{
+    "name": "risen/crud_expense_tracker",
+    "description": "Simple Expense Tracker with Filter and Chart",
+    "type": "project",
+    "license": "Apache",
+    "minimum-stability": "stable",
+    "require": {}
+}
